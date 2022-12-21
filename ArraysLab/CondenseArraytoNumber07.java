@@ -21,7 +21,6 @@ public class CondenseArraytoNumber07 {
                 sum2 = numb[i] + numb[i + 1];
                 sum += sum2;
                 sec[i] = sum2;
-                // numb = sec;
             }
             numb = sec;
         }if (isValid) {
