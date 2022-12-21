@@ -35,7 +35,6 @@ public class ArrayModifier09 {
 
                         numb[i] = numb[i] - 1;
                     }
-
             }
             action = scanner.nextLine();
         }
@@ -46,9 +45,6 @@ public class ArrayModifier09 {
             } else {
                 System.out.print(numb[i] + ", ");
             }
-
         }
-
     }
 }
-
