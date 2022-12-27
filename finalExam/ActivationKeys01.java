@@ -25,7 +25,6 @@ public class ActivationKeys01 {
                     }
                     break;
                 case "Flip":
-                    //•	"Flip>>>Upper/Lower>>>{startIndex}>>>{endIndex}":
                     String upOrLow = commands[1];
                     startIndex = Integer.parseInt(commands[2]);
                     endIndex = Integer.parseInt(commands[3]);
